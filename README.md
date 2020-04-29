@@ -1,8 +1,8 @@
-# $Visualizing High-Dimensional Data with Python
+# Visualizing High-Dimensional Data with Python
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 
-This project contains the Jupyter Notebooks and supporting files for _$Visualizing High-Dimensional Data with Python_ with $Jeroen Janssens. 
+This project contains the Jupyter Notebooks and supporting files for _Visualizing High-Dimensional Data with Python_ with Jeroen Janssens. 
 
 These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/${NOTEBOOK_FPID}).
 
